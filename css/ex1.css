@@ -1,0 +1,16 @@
+.heading {
+    color: tomato;
+}
+.title {
+    color: dodgerblue;
+}
+.text {
+    width: 60%;
+    text-align: justify;
+    position: relative;
+}
+.logo {
+    position: fixed;
+    top: 50%;right: 0;
+    transform: translateY(-50%);
+}
